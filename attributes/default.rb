@@ -2,9 +2,7 @@
 # Cookbook Name:: remi-php55
 # Attributes:: default
 #
-# Copyright 2013, YOUR_COMPANY_NAME
-#
-# All rights reserved - Do Not Redistribute
+# Copyright 2013,Issei Murasawa <issei.m7@gmail.com>
 #
 
 case node['platform']

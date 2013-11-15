@@ -2,9 +2,7 @@
 # Cookbook Name:: remi-php55
 # Recipe:: default
 #
-# Copyright 2013, Issei Murasawa <issei.m7@gmail.com>
-#
-# All rights reserved - Do Not Redistribute
+# Copyright 2013,Issei Murasawa <issei.m7@gmail.com>
 #
 
 include_recipe 'yum::remi'
