@@ -7,7 +7,7 @@
 # All rights reserved - Do Not Redistribute
 #
 
-include_recipe 'yum::epel'
+include_recipe 'yum::remi'
 
 yum_repository "remi-php55" do
   description "Les RPM de remi de PHP 5.5 pour Enterprise Linux #{node['platform_version']} - $basearch"
